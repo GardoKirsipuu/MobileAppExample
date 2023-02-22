@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
         borderRadius: 8,
         paddingVertical: 20,
         width: '100%',
-        
+        flex: 1
     },
     title: {
         color: colors.white,
